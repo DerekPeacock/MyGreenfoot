@@ -1,7 +1,7 @@
 #Greenfoot project file
 class.Block.image=brick01.png
 class.Mario.image=mario2.png
-class.MarioWorld.image=night_sky.jpg
+class.MarioWorld.image=cell.jpg
 dependency1.from=MarioWorld
 dependency1.to=Mario
 dependency1.type=UsesDependency
@@ -53,5 +53,5 @@ target3.y=0
 version=3.0.0
 width=980
 world.lastInstantiated=MarioWorld
-xPosition=786
-yPosition=165
+xPosition=19
+yPosition=2
